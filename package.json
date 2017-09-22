@@ -1,0 +1,15 @@
+{
+  "name": "potluck",
+  "version": "1.0.0",
+  "description": "An application to help everyone bring the right item to the right place!",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Gilpin",
+  "license": "UNLICENSED"
+}
